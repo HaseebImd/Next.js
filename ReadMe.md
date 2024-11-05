@@ -1,1 +1,3 @@
-Next js Series
+```
+npx create-next-app@latest
+```
